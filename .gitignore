@@ -1,0 +1,10 @@
+build/
+bin/
+*.obj
+*.o
+*.pak
+id1/
+dsp/libpxquake_skel.so
+dsp/libpxquake_skel.cat
+dsp/_dynsyms.txt
+*.log

@@ -1,0 +1,2 @@
+// PulseX Quake: id Software's Quake icon (WinQuake quake.ico, GPL) as resource 1 (vid_pc.c loads it)
+1 ICON "../id/quake.ico"
